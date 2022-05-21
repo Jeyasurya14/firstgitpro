@@ -1,4 +1,4 @@
 def hii():
-    print("Hello world")
+    print("hello peoples")
 
 hii()
